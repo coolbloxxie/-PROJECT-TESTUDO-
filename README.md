@@ -1,2 +1,0 @@
-# -PROJECT-TESTUDO-
-GRID project
